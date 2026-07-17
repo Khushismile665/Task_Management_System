@@ -88,6 +88,6 @@ task-management/
 
 ## Author
 
-**Rohan Decharwal**
+**Khushi Singh**
 
 GitHub → https://github.com/Khushismile665
