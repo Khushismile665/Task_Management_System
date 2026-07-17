@@ -37,7 +37,7 @@ A modern task management dashboard built with **Flask** and **MySQL** for assign
 Clone the repository.
 
 ```bash
-git clone https://github.com/RohanDecharwal/Task_Management_System
+git clone https://github.com/Khushismile665/Task_Management_System.git
 ```
 
 Install dependencies.
@@ -71,13 +71,6 @@ http://127.0.0.1:5000
 
 ---
 
-## Default Login
-
-| Username | Password |
-|----------|----------|
-| admin | admin123 |
-
----
 
 ## Project Structure
 
